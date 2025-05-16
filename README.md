@@ -117,4 +117,4 @@ Evaluation Technique:
 
 ---
 
-📬 *For suggestions or collaborations, feel free to reach out or raise an issue in the repository.*
+*For suggestions or collaborations, feel free to reach out or raise an issue in the repository.*
